@@ -1,0 +1,13 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.navbar-brand {
+    background-color: #fff;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
